@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adriane Troy Alariao
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# .NET (Web API, WPF), NextJS
+- 🌱 I’m currently learning C# .NET Framework (Web API, WPF, WinForms)
 - 📫 How to reach me: adrianetroyalariao@gmail.com
 
 <!---
